@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\yolo_train_img\111.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>狮子</name>
+				<bndbox>
+					<xmin>77</xmin>
+					<ymin>143</ymin>
+					<xmax>876</xmax>
+					<ymax>561</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name>人</name>
+				<bndbox>
+					<xmin>533</xmin>
+					<ymin>127</ymin>
+					<xmax>680</xmax>
+					<ymax>367</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name>狮子</name>
+				<bndbox>
+					<xmin>736</xmin>
+					<ymin>467</ymin>
+					<xmax>1034</xmax>
+					<ymax>560</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1582899251070</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1080</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+</doc>
